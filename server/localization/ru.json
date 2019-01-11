@@ -1,0 +1,26 @@
+{
+  "hello world": "Здравствуй, Мир!",
+  "how are you, {name}?": "Как поживаешь, {name}?",
+  "key": "некоторый текст",
+  "is not allowed to be empty" : "не может быть пустым",
+  "Address is already in use!": "По такому адресу свлон уже зарегистрирован!",
+  "Email is already in use!": "Пользователь с таким E-mail уже зарегистрирован!",
+  "Phone is already in use!": "Пользователь с таким телефоном уже зарегистрирован!",
+  "User email verified! You can sign in now!": "E-mail подтверждён! Теперь Вы можете войти в сервис!",
+  "No verification link or link is expired!": "Нет ссылки на подтверждение E-mail или ссылка просрочена!",
+  "No such email!": "Нет такого пользователя!",
+  "No such phone!": "Нет такого пользователя!",
+  "Only salon can sign in with phone number!": "Только салоны могут указывать телефон для входа!",
+  "Only salon can use phone number!": "Только салоны могут указывать телефон! Пожалуйста, введите E-mail",
+  "Password is invalid!": "Неверный пароль!",
+  "E-mail not verified!": "E-mail не подстверждён! Мы выслали Вам новое письмо с подтверждением регистрации. Пожалуйста, перейдите по ссылке в нём.",
+  "Not allowed!": "Операция не разрешена!",
+  "You have not enough Pones": "На Вашем счету недостаточное количество Понов. Пожалуйста, выберите другую сумму.",
+  "This order was already confirmed by client": "Этот заказ уже был подтвержден клиентом.",
+  "Wrong ID!": "Пользователя с таким ID не существует!",
+  "No user with such email!": "Нет пользователя с таким адресом!",
+  "New password is sent to your email": "Новый пароль отправлен на указанную Вами почту",
+  "New password is sent to your phone": "Новый пароль отправлен по указанному Вами номеру",
+  "test": "тест"
+}
+

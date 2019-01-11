@@ -1,0 +1,7 @@
+module.exports = {
+  ADMIN: 'ADMIN',
+  MEMBER: 'MEMBER',
+  MATE: 'MATE',
+  SALON_OWNER: 'SALON_OWNER',
+  SALON_ADMIN: 'SALON_ADMIN',
+}

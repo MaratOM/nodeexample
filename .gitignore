@@ -1,0 +1,15 @@
+/.idea
+/node_modules
+package-lock.json
+.DS_Store
+/.vimrc
+/.ackrc
+/coverage
+npm-debug.log
+yarn-error.log
+.idea
+.nyc_output
+/server/data/db
+/server/static/images
+.deploys
+/source
